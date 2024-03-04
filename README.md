@@ -30,7 +30,3 @@ Ensure you have the following Python libraries installed:
 ## Contributions
 
 Contributions to this project are welcome! If you have suggestions for improvements or find any issues, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
