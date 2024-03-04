@@ -1,4 +1,4 @@
-# Stock-Market-Sentiment-Analysis
+# Stock Market Sentiment Analysis
 
 This project utilizes Natural Language Processing (NLP) techniques, specifically VADER Sentiment Analysis, to predict the behavior of Indian Market Indices with significant accuracy. The model is trained on a dataset containing news headlines and corresponding stock index details.
 
